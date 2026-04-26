@@ -1,5 +1,5 @@
 # DevOps_06_AnsibleRoles
-# П07-1. Деплой веб-сервера с помощью role Ansible
+# П06-1. Деплой веб-сервера с помощью role Ansible
 1. Сделать role, которая устанавливает nginx c vhosts
 2. Роль устанавливает nginx
 3. Виртуальные сайты задавать параметрами роли (playbook/play/vars)
@@ -70,7 +70,7 @@ sites:
 <img width="800" height="278" alt="image" src="https://github.com/user-attachments/assets/d133f297-ae01-42ee-abfc-b7597857f4ff" />
 <img width="800" height="278" alt="image" src="https://github.com/user-attachments/assets/71fa4241-880b-44bb-9edf-acdee243fa8e" />
 
-# П07-2. Добавление функций CI
+# П06-2. Добавление функций CI
 Создать репозиторий под новый проект
 1. В своём профиле на гитлабе создать новый репо
 2. Склонировать этот репо к себе на vm командой
